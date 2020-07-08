@@ -38,4 +38,3 @@ public class randomNumberGame {
         scanner.close();
     }
 }
-//1
