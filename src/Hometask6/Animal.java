@@ -13,3 +13,4 @@ public class Animal {
         System.out.println("Животное проплыло");
     }
 }
+//
